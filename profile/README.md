@@ -2,7 +2,7 @@
 ## C241-PS092 [Product-Based Capstone - Bangkit 2024 Batch 1]
 
 ## 📑 Description
-This project to identify the various types of eye diseases by detecting the eye with a camera or picture and track phone user active in realtime
+This project to identify the various types of eye diseases by detecting the eye with a camera or picture
 
 ## 🖥️ Repositories
 |   Learning Paths      |                           Link                            |              Tools              |
