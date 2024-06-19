@@ -21,3 +21,19 @@ This project to identify the various types of eye diseases by detecting the eye 
 |  5  | Yohanna Permata Putri Br Pasaribu        | M281D4KX2599 |   Machine Learning  | <a href="https://www.linkedin.com/in/yohanna-pasaribu-9b41162a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 |  6  | Muhammad Ammar Hamdi                     | A443D4KY3730 |  Mobile Development | <a href="https://www.linkedin.com/in/muhammad-ammar-hamdi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 |  7  | Muhammad Rizki Dalfi                     | A308D4KY4108 |  Mobile Development | <a href="https://www.linkedin.com/in/muhammad-rizki-dalfi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+
+## 📲 Preview
+<p align="center">
+  <img src="/profile/onboarding.jpg?raw=true" alt="onboarding" width="200" height="500">
+  <img src="/profile/register.jpg?raw=true" alt="onboarding" width="200" height="500">
+  <img src="/profile/login.jpg?raw=true" alt="onboarding" width="200" height="500">
+  <img src="/profile/resetpassword.jpg?raw=true" alt="onboarding" width="200" height="500">
+  <img src="/profile/home.jpg?raw=true" alt="onboarding" width="200" height="500">
+  <img src="/profile/scan_1.jpg?raw=true" alt="onboarding" width="200" height="500">
+  <img src="/profile/scan_2.jpg?raw=true" alt="onboarding" width="200" height="500">
+  <img src="/profile/scan_3.jpg?raw=true" alt="onboarding" width="200" height="500">
+  <img src="/profile/history.jpg?raw=true" alt="onboarding" width="200" height="500">
+  <img src="/profile/article.jpg?raw=true" alt="onboarding" width="200" height="500">
+  <img src="/profile/ensiklopedia.jpg?raw=true" alt="onboarding" width="200" height="500">
+  <img src="/profile/profile.jpg?raw=true" alt="onboarding" width="200" height="500">
+</p>
