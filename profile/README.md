@@ -24,16 +24,8 @@ This project to identify the various types of eye diseases by detecting the eye 
 
 ## 📲 Preview
 <p align="center">
-  <img src="/profile/onboarding.jpg?raw=true" alt="onboarding" width="200" height="500">
   <img src="/profile/register.jpg?raw=true" alt="onboarding" width="200" height="500">
-  <img src="/profile/login.jpg?raw=true" alt="onboarding" width="200" height="500">
-  <img src="/profile/resetpassword.jpg?raw=true" alt="onboarding" width="200" height="500">
   <img src="/profile/home.jpg?raw=true" alt="onboarding" width="200" height="500">
-  <img src="/profile/scan_1.jpg?raw=true" alt="onboarding" width="200" height="500">
-  <img src="/profile/scan_2.jpg?raw=true" alt="onboarding" width="200" height="500">
   <img src="/profile/scan_3.jpg?raw=true" alt="onboarding" width="200" height="500">
-  <img src="/profile/history.jpg?raw=true" alt="onboarding" width="200" height="500">
   <img src="/profile/article.jpg?raw=true" alt="onboarding" width="200" height="500">
-  <img src="/profile/ensiklopedia.jpg?raw=true" alt="onboarding" width="200" height="500">
-  <img src="/profile/profile.jpg?raw=true" alt="onboarding" width="200" height="500">
 </p>
