@@ -1,4 +1,4 @@
-# Eyetify - See the world in all its clarity
+# EyeTify - See the world in all its clarity
 ## C241-PS092 [Product-Based Capstone - Bangkit 2024 Batch 1]
 
 ## 📑 Description
